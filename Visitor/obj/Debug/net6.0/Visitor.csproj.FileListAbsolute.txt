@@ -1,0 +1,14 @@
+C:\Users\murat\source\repos\DesignPatterns\Visitor\bin\Debug\net6.0\Visitor.exe
+C:\Users\murat\source\repos\DesignPatterns\Visitor\bin\Debug\net6.0\Visitor.deps.json
+C:\Users\murat\source\repos\DesignPatterns\Visitor\bin\Debug\net6.0\Visitor.runtimeconfig.json
+C:\Users\murat\source\repos\DesignPatterns\Visitor\bin\Debug\net6.0\Visitor.dll
+C:\Users\murat\source\repos\DesignPatterns\Visitor\bin\Debug\net6.0\Visitor.pdb
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfo.cs
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.dll
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\refint\Visitor.dll
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.pdb
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\Visitor.genruntimeconfig.cache
+C:\Users\murat\source\repos\DesignPatterns\Visitor\obj\Debug\net6.0\ref\Visitor.dll

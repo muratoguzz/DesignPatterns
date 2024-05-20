@@ -1,0 +1,14 @@
+C:\Users\murat\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\murat\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\murat\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\murat\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\murat\source\repos\DesignPatterns\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+C:\Users\murat\source\repos\DesignPatterns\Decorator\obj\Debug\net6.0\ref\Decorator.dll
